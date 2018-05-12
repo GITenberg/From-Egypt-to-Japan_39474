@@ -1,0 +1,31 @@
+_repo: From-Egypt-to-Japan_39474
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Field, Henry M. (Henry Martyn)
+    alias: Field, Henry Martyn
+    birthdate: 1822
+    deathdate: 1907
+    gutenberg_agent_id: '37206'
+    url: http://www.gutenberg.org/2009/agents/37206
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Martyn_Field_%28minister%29
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39474'
+  lccn: 05023482
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcsh 'East Asia -- Description and travel'
+- !lcc 'G'
+title: From Egypt to Japan
+url: http://www.gutenberg.org/ebooks/39474
