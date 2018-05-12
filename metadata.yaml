@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37206
     wikipedia: http://en.wikipedia.org/wiki/Henry_Martyn_Field_%28minister%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39474#From-Egypt-to-Japan
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2012-04-18'
 gutenberg_type: Text
